@@ -14,9 +14,9 @@ export const Projects = () => {
   const projects = [
     {
       title: "Django Web App",
-      description: "Live Site",
+      description: "Github",
       imgUrl: projImg1,
-      url: "http://django-greatkart-env.eba-82s4frg9.us-west-2.elasticbeanstalk.com/"
+      url: "https://github.com/renjingxiao/greatkart-django"
     },
     {
       title: "Fullstack MERN Web App",
