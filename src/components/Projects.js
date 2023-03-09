@@ -14,7 +14,7 @@ export const Projects = () => {
   const projects = [
     {
       title: "Django Web App",
-      description: "Live Siteg",
+      description: "Live Site",
       imgUrl: projImg1,
       url: "https://greatkart.onrender.com/"
     },
